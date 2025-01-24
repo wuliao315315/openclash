@@ -1,2 +1,1 @@
-# openclash
-hopngxing
+# lian
